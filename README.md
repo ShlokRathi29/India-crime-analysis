@@ -21,3 +21,7 @@ This project was built for a one-day DATAthon competition. It transforms raw cri
 - Plotly Express
 - Pandas, NumPy
 - GeoJSON (India state boundaries)
+
+
+##Command to Run 
+- streamlit run app.py
